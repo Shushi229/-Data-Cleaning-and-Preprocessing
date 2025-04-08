@@ -54,5 +54,11 @@ Clean and prepare a raw dataset with issues like nulls, duplicates, inconsistent
 ## Outcome
 A cleaned, standardized dataset ready for analysis and modeling.
 
+## Original Dataset
+![Screenshot 2025-04-08 203714](https://github.com/user-attachments/assets/ec3d5b53-96f7-44dc-8e60-dee343b3e24f)
+
+## Cleaned, Standardized dataset
+![Screenshot 2025-04-08 203735](https://github.com/user-attachments/assets/fc6be45d-b55e-43c1-944e-6e5947ef21b7)
+
 ## Author
 Saurabh
